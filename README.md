@@ -1,2 +1,9 @@
 # GnPairing
-A Mathematica package for constructing the Hamiltonian matrix of nuclear mean-field plus general pairing model
+1. A Mathematica package for constructing the Hamiltonian matrix of nuclear mean-field plus general pairing model
+
+2. The program is designed for constructing the Hamiltonian matrix of nuclear mean-field plus general pairing model.
+
+3. The notebook file contains 5 parts.  At the beginning of each parts, there is  an explanatory note for the purpose. The first 4 parts are within the package GnPairing[p, k, S, epsilon, G]. The Part 5  contains 5 examples with input and output.
+
+4. Known issues: The total number of orbits and the number of like-nucleon pairs are limited by the available DRAM
+on the local machine. Typically, a matrix of dimension approximately  4.3x10^6  requires 120 GB of DRAM on a PC.
