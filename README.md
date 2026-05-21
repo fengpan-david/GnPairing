@@ -8,3 +8,6 @@
 
 4. Known issues: The total number of orbits and the number of like-nucleon pairs are limited by the available DRAM
 on the local machine. Typically, a matrix of dimension approximately  4.3x10^6  requires 120 GB of DRAM on a PC.
+
+5. In GnPairing-v1.5.1.nb, a simple Lanczos for evaluating eigenvalues of Hp is added with additional data provided in Example 4. 
+
