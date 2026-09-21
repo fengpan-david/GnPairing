@@ -19,6 +19,7 @@ After loading the code and supplying the number of orbits p, the quasi-spin S[i]
 | `GnPairing-v1.5.2.wl` |  GnPairing code including phase fixing and Lanczos code for diagonalization|
 | `exactPairingHS.m` | The package implementing the HS polynomial approach, which is used to generate reference data in the tests. |
 | `Example-including-phase-fixing.nb` |A notebook file demonstrating an example that includes phase fixing|
+| Test.nb` |A notebook file for verifying the GnPairing code, covering the cases p = 2, 3, and 6. |
 | `Timing.nb` |Timing samples for the various cases shown in Tables I and II of the manuscript|
 
 ## Authors
