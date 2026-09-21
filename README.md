@@ -6,7 +6,7 @@ nuclear mean-field plus general pairing model.
 After loading the code and supplying the number of orbits p, the quasi-spin S[i] of each orbit, the number of pairs k, the single-particle energy epsilon[i] of each orbit, and the pairing strength parameters G[i, j], the code generates the corresponding Hamiltonian matrix, provided that sufficient memory is available on the local machine. If insufficient memory is available, the code terminates automatically.
 
 
-##Phase Fixing 
+## Phase Fixing 
 
  An example of absolute phase fixing is applied after the eigenvectors of the Hamiltonian matrix have been obtained, as provided in the notebook file
 `Example-including-phase-fixing.nb` 
