@@ -22,6 +22,13 @@ After loading the code and supplying the number of orbits p, the quasi-spin S[i]
 | `Test.nb` |A notebook file for verifying the GnPairing code, covering the cases p = 2, 3, and 6. |
 | `Timing.nb` |Timing samples for the various cases shown in Tables I and II of the manuscript|
 
+
+## References of the HS polynomial approach
+
+X. Guan, K. D. Launey, M. Xie, L. Bao, F. Pan, J. P. Draayer, Numerical algorithm for the standard pairing problem based on the Heine-
+Stieltjes correspondence and the polynomial approach, Comp. Phys. Commun. 185 (2014) 2714 – 2723.
+https://doi.org/10.1016/j.cpc.2014.05.023
+
 ## Authors
 
 - F. Pan, L. Dai, and J. P. Draayer, Sept. 10, 2026  
